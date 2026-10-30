@@ -1,0 +1,76 @@
+=== PAGE 1 ===
+     Faculty of Engineering and Technology       
+     Department of CSE – AI, ML and DS
+PROJECT REPORT
+AI-Assisted Web Application Project
+Semester 3 – CSE (AI/ML)
+Project Title
+[ENTER PROJECT TITLE]
+Submitted by
+Student Name: ____________________________________________________________________
+Enrollment No.: ___________________________________________________________________
+Division: ___________________________________________________________________________
+
+
+=== PAGE 2 ===
+     Faculty of Engineering and Technology       
+     Department of CSE – AI, ML and DS
+Contents
+1. Introduction
+3
+2. Target User
+3
+3. Tools Used
+3
+4. Prompt Engineering Process
+3
+5. Application Design and Development
+3
+6. Final Application
+3
+7. Conclusion
+3
+
+
+=== PAGE 3 ===
+     Faculty of Engineering and Technology       
+     Department of CSE – AI, ML and DS
+1. Introduction
+Briefly introduce the real-world problem and the application developed. Explain how AI 
+tools and prompt engineering were used during the project. [Write 1–2 paragraphs.]
+2. Target User
+Identify who will use the application. Examples: students, teachers, patients, citizens, 
+customers, players, etc. [Describe your target users.]
+3. Tools Used
+Mention the technologies, languages, libraries and development environment used. 
+Mention each AI tool and what it was used for.
+Examples: idea generation, requirements, UI design, code generation, debugging, 
+testing, 
+4. Prompt Engineering Process
+Include prompts : Write purpose of prompt and put screenshot of prompt
+1. Idea/problem analysis
+2. Requirements/features
+3. UI/layout design
+4. Code generation
+5. Testing
+6. Debugging and improvement
+5. Application Design and Development
+Describe the page structure, navigation, major UI components and application flow.
+
+Insert screenshots/diagrams below.
+
+Insert system/page structure diagram
+
+Insert UI screenshots with captions
+6. Final Application
+Describe the final working features and the final user experience. Provide the link of 
+application.
+7. Conclusion 
+
+
+=== PAGE 4 ===
+     Faculty of Engineering and Technology       
+     Department of CSE – AI, ML and DS
+Summarize the project, the role of AI, the final result and possible future improvements.
+
+
