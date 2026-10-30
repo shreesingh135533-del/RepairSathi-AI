@@ -1,0 +1,21 @@
+{
+  "name": "repairsathi-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RepairSathi AI - AI-Powered Smart Device Repair Assistant & Cost Intelligence Platform",
+  "main": "server/index.js",
+  "scripts": {
+    "build": "cd server && npm install && cd ../client && npm install && npm run build && cd ..",
+    "start": "node server/index.js",
+    "seed": "node server/seed.js && node server/seedPricingEngine.js",
+    "test:pricing": "node server/test_verified_pricing.js",
+    "test:costs": "node server/test_live_cost_engine.js",
+    "test": "node server/test_verified_pricing.js && node server/test_live_cost_engine.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.16.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
